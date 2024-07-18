@@ -1,4 +1,4 @@
-name: generate animation
+name: snk-animation-gen
 
 on:
   # run automatically every 24 hours
