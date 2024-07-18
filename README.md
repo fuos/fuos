@@ -31,6 +31,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Java后端面试必备技能](https://fuos.github.io/posts/5f972bb0.html)
 - [java/python/go简单比较](https://fuos.github.io/posts/cedaf171.html)
