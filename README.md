@@ -39,3 +39,6 @@
 - [Deploy with Cloudflare Pages](https://fuos.github.io/posts/49749a97.html)
 - [springboot+redis实现滑动窗口限流](https://fuos.github.io/posts/268e55.html)
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
