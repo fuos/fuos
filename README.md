@@ -1,5 +1,25 @@
-## Hi there 👋  
-![](https://komarev.com/ghpvc/?username=fuos&style=flat-square)  
+<h3 align="center">👋 Hello!</h3>
+
+-------
+
+<p align="left">
+	<a href="https://github.com/fuos">
+		<img src="https://komarev.com/ghpvc/?username=fuos&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS"
+		alt="page views" />
+	</a>
+	<a href="https://fuos.github.io">
+		<img alt="hexo blog" src="https://img.shields.io/badge/my--blog-up-brightgreen?style=for-the-badge&logo=Hexo&color=%230F9D58"
+		alt="my blog" />
+	</a>
+	<a href="https://github.com/fuos?tab=followers">
+		<img alt="GitHub followers" src="https://img.shields.io/github/followers/fuos?style=for-the-badge&logo=github&color=%23F4B400"
+		alt="followers">
+	</a>
+	<a href="https://github.com/fuos/fuos/actions/workflows/blog-post-workflow.yml">
+		<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/fuos/fuos/blog-post-workflow.yml?branch=main&style=for-the-badge&label=ACTIONS%20BUILD">
+	</a>
+</p>
+
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -25,13 +45,16 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuos/fuos/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuos/fuos/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-📕 &nbsp;**Latest Blog Posts**
+-------
+
+📕 **Latest Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
 - [Java后端面试必备技能](https://fuos.github.io/posts/5f972bb0.html)
 - [java/python/go简单比较](https://fuos.github.io/posts/cedaf171.html)
@@ -40,6 +63,7 @@
 - [springboot+redis实现滑动窗口限流](https://fuos.github.io/posts/268e55.html)
 <!-- BLOG-POST-LIST:END -->
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -47,3 +71,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+-------
+<h3 align="center">🌟Star this repository🌟</h3>
