@@ -10,9 +10,12 @@
 
 -------
 
-<img src="https://github-readme-stats.vercel.app/api?username=fuos&show_icons=true&theme=default&hide_border=true" alt="logo" align="right" width="50%" />
+<table width="960px">
+<tr>
+<td valign="center" width="50%">
 
 📕 **Latest Blog Posts**
+
 <!-- BLOG-POST-LIST:START -->
 - [Java后端面试必备技能](https://fuos.github.io/posts/5f972bb0.html)
 - [java/python/go简单比较](https://fuos.github.io/posts/cedaf171.html)
@@ -20,6 +23,17 @@
 - [Deploy with Cloudflare Pages](https://fuos.github.io/posts/49749a97.html)
 - [springboot+redis实现滑动窗口限流](https://fuos.github.io/posts/268e55.html)
 <!-- BLOG-POST-LIST:END -->
+
+</td>
+<td valign="center" width="50%">
+
+🗃️ **GitHub Stats Card**
+
+<img src="https://github-readme-stats.vercel.app/api?username=fuos&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="logo" />
+
+</td>
+</tr>
+</table>
 
 📊 **Weekly development**
 <!--START_SECTION:waka-->
