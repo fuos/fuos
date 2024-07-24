@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@1.8.8
         with:
-          feed_list: "https://blog.bytex.dynv6.net/atom.xml"
+          feed_list: "https://fuos.github.io/atom.xml"
