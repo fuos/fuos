@@ -17,11 +17,11 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Java后端面试必备技能](https://fuos.github.io/posts/5f972bb0.html)
-- [java/python/go简单比较](https://fuos.github.io/posts/cedaf171.html)
-- [如何简单注册一个域名](https://fuos.github.io/posts/cfbc1028.html)
-- [Deploy with Cloudflare Pages](https://fuos.github.io/posts/49749a97.html)
-- [springboot+redis实现滑动窗口限流](https://fuos.github.io/posts/268e55.html)
+- [Java后端面试必备技能](https://blog.bitmap.us.kg/posts/5f972bb0.html)
+- [java/python/go简单比较](https://blog.bitmap.us.kg/posts/cedaf171.html)
+- [如何简单注册一个域名](https://blog.bitmap.us.kg/posts/cfbc1028.html)
+- [Deploy with Cloudflare Pages](https://blog.bitmap.us.kg/posts/49749a97.html)
+- [springboot+redis实现滑动窗口限流](https://blog.bitmap.us.kg/posts/268e55.html)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
