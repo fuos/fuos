@@ -39,9 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS        2 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.93 %
-YAML       2 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   44.96 %
-Markdown   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+YAML   2 hrs 55 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
