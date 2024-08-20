@@ -17,11 +17,11 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [什么是bitmap](https://blog.bitmap.us.kg/posts/51635cb9.html)
+- [面试题:两数组之和](https://blog.bitmap.us.kg/posts/848255c6.html)
+- [写在金九银十前夕](https://blog.bitmap.us.kg/posts/ad3ea03d.html)
 - [Java后端必备技能&lpar;四&rpar;:MySQL进阶篇](https://blog.bitmap.us.kg/posts/2ac703c7.html)
 - [Java后端必备技能&lpar;三&rpar;:MySQL基础篇](https://blog.bitmap.us.kg/posts/369bcd6e.html)
-- [Hexo配置记录](https://blog.bitmap.us.kg/posts/a2ce8d15.html)
-- [Java后端必备技能&lpar;二&rpar;:Java原理](https://blog.bitmap.us.kg/posts/fc5e4d.html)
-- [Java后端必备技能&lpar;一&rpar;:JVM](https://blog.bitmap.us.kg/posts/fa087a3f.html)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
